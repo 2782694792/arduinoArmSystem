@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Image/gamehandle.png</file>
+        <file>Image/robot.jpg</file>
+        <file>Image/machine.png</file>
+        <file>Image/pause2.png</file>
+        <file>Image/start2.png</file>
+        <file>Image/start3.png</file>
+        <file>Image/stop2.png</file>
+        <file>Image/stop3.png</file>
+        <file>Image/STEP.png</file>
+        <file>Image/RESET.png</file>
+        <file>Image/exit.png</file>
+        <file>Image/home.png</file>
+        <file>Image/home1.png</file>
+        <file>Image/load.png</file>
+        <file>Image/safe.png</file>
+        <file>Image/save.png</file>
+        <file>Image/save2.png</file>
+        <file>Image/send.png</file>
+        <file>Image/send2.png</file>
+        <file>Image/connect.png</file>
+        <file>Image/connect2.png</file>
+        <file>Image/connect3.png</file>
+        <file>Image/load2.png</file>
+        <file>Image/load3.png</file>
+        <file>Image/statu.png</file>
+        <file>Image/send3.png</file>
+        <file>Image/swift.png</file>
+        <file>Image/pause3.png</file>
+        <file>Image/tutorial.png</file>
+        <file>Image/tutorial1.png</file>
+    </qresource>
+</RCC>

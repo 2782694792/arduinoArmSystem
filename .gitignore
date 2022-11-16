@@ -1,0 +1,8 @@
+*.filters
+*.user
+*.txt
+*.stash
+release
+debug
+.vs
+*.vcxproj
